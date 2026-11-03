@@ -1,5 +1,11 @@
 # Bright Studio Assistant
-
+<p align="center">
+<img src="https://github.com/RoXaAF/agency-rag/blob/main/Rag_pic.png?raw=true" width="200">
+<p align="center">
+<img src="https://github.com/RoXaAF/agency-rag/blob/main/Asking_outside_context.png?raw=true" width="200">
+<p align="center">
+<img src="https://github.com/RoXaAF/agency-rag/blob/main/Asking_in_%20context.png?raw=true" width="200">
+</p>
 A small, fully local RAG chatbot that answers questions about a fictional marketing agency, **Bright Studio**, using only the agency's own documents. Everything runs on your machine: Gemma (via Ollama) writes the answers, and ChromaDB stores the document index.
 
 ## How it works
