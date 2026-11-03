@@ -1,0 +1,31 @@
+Bright Studio - Our Team
+
+Bright Studio has six team members. Here is who does what.
+
+Sarah Chen - Founder and Creative Director
+Sarah founded Bright Studio in 2018 after eight years at a large advertising firm in Chicago. She leads overall strategy, reviews all major creative work, and hosts the monthly strategy calls for Premier clients. Specialty: brand strategy and client relationships. Contact: sarah@brightstudio.example
+
+Marcus Webb - Brand Strategist
+Marcus leads all branding projects, including logos, brand guidelines and brand voice. He has 10 years of experience in identity design. If you want to talk about branding, Marcus is the person to contact. Contact: marcus@brightstudio.example
+
+Priya Nair - SEO Lead
+Priya manages keyword research, technical audits, and the monthly SEO ranking reports. She previously worked in-house at an e-commerce company. Specialty: technical SEO and local search. Contact: priya@brightstudio.example
+
+Elena Rossi - Social Media Manager
+Elena plans and publishes content for Instagram, Facebook and LinkedIn, and handles community management. She has a background in journalism. Specialty: content calendars and short-form video captions. Contact: elena@brightstudio.example
+
+Daniel Okafor - Lead Web Designer
+Daniel designs and builds client websites in WordPress and Webflow. Specialty: responsive design and website speed optimization. Contact: daniel@brightstudio.example
+
+Aisha Rahman - Account Manager
+Aisha is the first point of contact for new clients. She handles onboarding, contracts, invoices, and day-to-day questions about your project. If you want to sign up, ask about billing, or are unsure who to talk to, contact Aisha. Contact: aisha@brightstudio.example
+
+Who to contact
+- New client or general question: Aisha Rahman
+- Branding: Marcus Webb
+- SEO: Priya Nair
+- Social media: Elena Rossi
+- Website: Daniel Okafor
+- Strategy or escalations: Sarah Chen
+
+Note: Marcus Webb (brand strategist) and Daniel Okafor (web designer) both work on visual design, but Marcus handles brand identity while Daniel handles websites only.

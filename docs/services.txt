@@ -1,0 +1,23 @@
+Bright Studio - Services
+
+Bright Studio is a small creative marketing agency based in Austin, Texas, founded in 2018. We have six team members and work with local businesses and startups. We offer four core services.
+
+SEO (Search Engine Optimization)
+Our SEO service helps your website rank higher on Google. It includes a technical site audit, keyword research for up to 30 target keywords, on-page optimization of up to 15 pages, monthly backlink outreach (5 new quality links per month), and a monthly ranking report. SEO results usually take 3 to 6 months to become visible. Our SEO lead is Priya Nair.
+
+Branding
+Our branding service builds a complete visual identity. It includes a logo design with three initial concepts and two rounds of revisions, a color palette, typography selection, a brand voice guide, and a 20-page brand guidelines PDF. A standard branding project takes 4 to 6 weeks. Branding is a one-off project, though it is also included in the Growth and Premier packages. Our brand strategist is Marcus Webb.
+
+Social Media Management
+Our social media service covers Instagram, Facebook and LinkedIn. It includes a monthly content calendar, 12 designed posts per month, community management (replying to comments and messages within one business day), and a monthly analytics summary. We do not manage TikTok or X (Twitter) accounts. Our social media manager is Elena Rossi.
+
+Web Design
+Our web design service creates responsive websites of up to 10 pages, built on WordPress or Webflow. It includes wireframes, two design revisions, mobile optimization, basic on-page SEO setup, and 30 days of free support after launch. A typical website takes 6 to 8 weeks to complete. E-commerce stores are not included in the standard service and are quoted separately. Our lead web designer is Daniel Okafor.
+
+What we do not offer
+Bright Studio does not offer paid advertising management (such as Google Ads or Meta Ads), video production, public relations, or legal and accounting services. If a client needs these, we can recommend trusted partner companies.
+
+Contact
+Email: hello@brightstudio.example
+Phone: (512) 555-0147
+Office hours: Monday to Friday, 9:00 AM to 5:30 PM Central Time.
